@@ -1,0 +1,6 @@
+
+1)how to import bootstrap.css
+npm install --save bootstrap
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+2)
