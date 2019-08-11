@@ -5,3 +5,10 @@
 5) create new files
 6) git commit -m "add new files"
 7) git push
+
+
+Adding reactjs project to git existign repo.
+1) create reactjs folder using 'npx create-react-app projectname'
+2) copy it to existing cloned repository folder.
+3) den create  file named .gitignore
+4) add directory or files which you want to ignore.
