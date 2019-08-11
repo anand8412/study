@@ -1,0 +1,7 @@
+1) create a new repository in your github.com
+2) then in local wherever you want use "git clone https://github.com/anand8412/ruthvik_study"
+3) then add new files
+4) git add .
+5) create new files
+6) git commit -m "add new files"
+7) git push
